@@ -2,5 +2,7 @@ Medical Chatbot finetuning BioClinicalBert,Streamlit for web application creatio
 
 To run 
 
-'''Python
+```Python
 streamlit run test.py
+
+```
