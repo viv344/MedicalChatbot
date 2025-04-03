@@ -1,4 +1,4 @@
-Medical Chatbot finetuning BioClinicalBert,Streamlit for web application creation.
+Medical Chatbot finetuning BioClinicalBert using dataset from huggingFace. Using this model in addition to a retreival based approach for increased accuracy. Streamlit for local web application creation.
 
 To run 
 
