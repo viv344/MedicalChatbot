@@ -3,6 +3,6 @@ Medical Chatbot finetuning BioClinicalBert using dataset from huggingFace. Using
 To run 
 
 ```Python
-streamlit run test.py
+python -m streamlit test.py
 
 ```
